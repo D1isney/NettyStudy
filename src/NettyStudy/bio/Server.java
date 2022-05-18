@@ -5,6 +5,11 @@ import java.net.InetSocketAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+//Bytebuffer 一个指针
+//Bytebuff 两个指针 一个指向写 一个指向读
+
+
+
 public class Server {
     public static void main(String[] args) throws IOException {
         ServerSocket ss = new ServerSocket();
