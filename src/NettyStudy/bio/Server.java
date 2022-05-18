@@ -1,4 +1,4 @@
-package NettyStudy;
+package NettyStudy.bio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
